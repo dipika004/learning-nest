@@ -61,7 +61,7 @@ const Footer = () => {
               <FaEnvelope className="text-lg" /> learningnest.edu@gmail.com
             </li>
             <li className="flex items-center gap-2">
-              <IoLocationSharp className="text-lg" /> A/503 Regency Park, Kalyan East, Mumbai
+              <IoLocationSharp className="text-lg" /> Shop No.2, Regency Park, Kalyan (East)
             </li>
           </ul>
         </div>
