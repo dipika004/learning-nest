@@ -52,13 +52,13 @@ const Footer = () => {
           <h3 className="text-xl font-semibold mb-4">Contact Us</h3>
           <ul className="space-y-3 text-sm">
             <li className="flex items-center gap-2">
-              <FaPhoneAlt className="text-lg" /> +91 85910 62769
+              <FaPhoneAlt className="text-lg" /> +91 99694 96748 / +91 72086 44520
             </li>
             <li className="flex items-center gap-2">
-              <FaWhatsapp className="text-lg" /> +91 85910 62769
+              <FaWhatsapp className="text-lg" /> +91 98699 58002
             </li>
             <li className="flex items-center gap-2">
-              <FaEnvelope className="text-lg" /> learningnest.edu@gmail.com
+              <FaEnvelope className="text-lg" /> palkritika8@gmail.com
             </li>
             <li className="flex items-center gap-2">
               <IoLocationSharp className="text-lg" /> Shop No.2, Regency Park, Kalyan (East)

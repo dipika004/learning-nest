@@ -33,7 +33,7 @@ const ContactUs = () => {
               rel="noopener noreferrer"
               className="text-gray-700 hover:text-green-700 block"
             >
-              +91 9969496748
+              +91 9869958002
             </a>
           </div>
         </div>
@@ -44,10 +44,10 @@ const ContactUs = () => {
           <div>
             <h3 className="font-semibold text-lg">Email</h3>
             <a
-              href="mailto:dipikapurnachandrasahoo004@gmail.com"
+              href="mailto:palkritika8@gmail.com"
               className="text-gray-700 hover:text-[#583015] block"
             >
-              dipikapurnachandrasahoo004@gmail.com
+              palkritika8@gmail.com
             </a>
           </div>
         </div>

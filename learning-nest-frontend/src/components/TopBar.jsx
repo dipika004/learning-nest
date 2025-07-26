@@ -4,8 +4,8 @@ const TopBar = () => {
       <a href="tel:+9969496748" className="hover:text-[#A27448] transition duration-300 mb-1 md:mb-0">
         📞 996-9496-748
       </a>
-      <a href="mailto:dipikasahoo004@gmail.com" className="hover:text-[#A27448] transition duration-300 mb-1 md:mb-0">
-        ✉️ dipikasahoo004@gmail.com
+      <a href="mailto:palkritika8@gmail.com" className="hover:text-[#A27448] transition duration-300 mb-1 md:mb-0">
+        ✉️ palkritika8@gmail.com
       </a>
       <a
         href="https://goo.gl/maps/8b1Z5d7f3kz"
